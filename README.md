@@ -1,5 +1,9 @@
 # Fullstack-sushi
-Progetto per testare il framework React per lo sviluppo Frontend di pagine interattive
+Progetto ideato per testare il framework React per lo sviluppo Frontend di pagine interattive.
+
+Codice ispirato dal seguente tutorial: 
+- [React JS Tutorial ITA - Creare e pubblicare un sito Corso rapido per principianti. Guida in ITALIANO](https://www.youtube.com/watch?v=MNE7hsP3JtY)
+- [Canale di PitoneProgrammatore](https://www.youtube.com/@PitoneProgrammatoreOfficial/shorts)
 
 # Getting Started with Create React App
 
