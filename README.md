@@ -1,6 +1,8 @@
 # Fullstack-sushi
 Progetto ideato per testare il framework React per lo sviluppo Frontend di pagine interattive.
 
+Web app disponibile al seguente link: https://fullstack-sushi-47c22.web.app
+
 Codice ispirato dal seguente tutorial: 
 - [React JS Tutorial ITA - Creare e pubblicare un sito Corso rapido per principianti. Guida in ITALIANO](https://www.youtube.com/watch?v=MNE7hsP3JtY)
 - [Canale di PitoneProgrammatore](https://www.youtube.com/@PitoneProgrammatoreOfficial/shorts)
