@@ -44,6 +44,10 @@ class App extends Component {
     }
   }
 
+  handleConfirm = () => {
+    alert("Conferma selezione sushi");
+  }
+
   render() {
     return (
       <>
@@ -61,6 +65,9 @@ class App extends Component {
                 card={card}
               />
             ))}
+          </div>
+          <div className="my-4 text-center">
+            <button onClick={this.handleConfirm} className="btn btn-primary">Conferma Ordine</button>
           </div>
         </div>
       </>
